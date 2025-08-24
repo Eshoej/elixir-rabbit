@@ -4,6 +4,7 @@ A __Work In Progress__ elixir implementation of https://github.com/CoinifySoftwa
 Will not be usable until we are at version 1.0.0
 
 ## Progress
+![](https://geps.dev/progress/17)
 - [x] Basic publisher/consumer
 - [ ] Multiple  consumers
 - [ ] JSON payload
